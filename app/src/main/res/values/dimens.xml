@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_welcome">60sp</dimen>
+    <dimen name="margin_left_welcome">40dp</dimen>
+    <dimen name="margin_top_welcome">70dp</dimen>
+    <dimen name="margin_top_button">230dp</dimen>
+    <dimen name="entrar_size">30sp</dimen>
+</resources>
